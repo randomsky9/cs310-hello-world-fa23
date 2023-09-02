@@ -20,7 +20,5 @@ public class HelloWorld {
      private void f3() {
         // v2.0
     }
-     private void f4() {
-        // v2.0
-    }
+
 }
